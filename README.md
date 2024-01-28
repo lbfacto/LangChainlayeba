@@ -1,4 +1,4 @@
 # LangChainlb
 # OpenAI 
 
-# Install and configure both for prompting mesage licke gpt
+# Install and configure both for prompting mesage like gpt
